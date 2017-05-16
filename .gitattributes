@@ -2,3 +2,4 @@
 *.uasset filter=lfs diff=lfs merge=lfs -text
 *.umap filter=lfs diff=lfs merge=lfs -text
 *.uproject filter=lfs diff=lfs merge=lfs -text
+Tank666-4.15.uproject filter=lfs diff=lfs merge=lfs -text
